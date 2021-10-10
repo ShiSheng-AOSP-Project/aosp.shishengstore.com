@@ -2,8 +2,6 @@ ShiSheng's AOSP Project
 ===
 
 > We'll put the latest information and ROM's download link here below.
-> 
-> **But Not now!**
 
 ## Introduction
 
@@ -11,11 +9,16 @@ A little AOSP project funded by ShiSheng.
 
 We drew inspiration from [$Sudoerz](https://github.com/UP5468-GE-ES44AC)'s umi(Mi10) project.
 
-*Now, we're **just** working on AOSP11 for cmi(Mi10Pro).*
+*Now, we're working on AOSP11 for cmi(Xiaomi 10 Pro) & unofficial exTHmUI for blueline(Google Pixel 3).*
 
 ## Menu
 
-### CMI - Mi10Pro
+### CMI - Xiaomi 10 Pro
+
+*Under developing*
+
+
+### Blueline - Google Pixel 3
 
 *Under developing*
 
