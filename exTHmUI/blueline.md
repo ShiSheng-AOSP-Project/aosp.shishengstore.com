@@ -1,4 +1,4 @@
-# ShiSheng's AOSP Project - Blueline(Google Pixel 3)
+# ShiSheng's AOSP Project - blueline(Google Pixel 3)
 
 ## exTHmUI
 

@@ -12,11 +12,11 @@ _Now, we're working on unofficial Arrow OS for cmi(Xiaomi 10 Pro) & unofficial A
 
 ## Menu
 
-### CMI - Xiaomi 10 Pro
+### cmi - Xiaomi 10 Pro
 
 _Under developing_
 
-### Blueline - Google Pixel 3
+### blueline - Google Pixel 3
 
 - [exTHmUI](/exTHmUI/blueline.html)
 
