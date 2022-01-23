@@ -6,19 +6,21 @@
 
 A little AOSP project funded by ShiSheng.
 
-We drew inspiration from [$Sudoerz](https://github.com/UP5468-GE-ES44AC)'s umi(Mi10) project.
+We drew inspiration from [$Sudoerz](https://github.com/UP5468-GE-ES44AC)'s umi(Xiaomi 10) project.
 
-_Now, we're working on unofficial Arrow OS for cmi(Xiaomi 10 Pro) & unofficial Arrow OS and exTHmUI for blueline(Google Pixel 3)._
+_Now, we're working on AOSP for cmi(Xiaomi 10 Pro)._
+
+
 
 ## Menu
 
 ### cmi - Xiaomi 10 Pro
 
-_Under developing_
+- [AOSP(Sudoerz's Mod)](/AOSP/cmi.html)
 
 ### blueline - Google Pixel 3
 
-- [exTHmUI](/exTHmUI/blueline.html)
+- [exTHmUI](/exTHmUI/blueline.html) **EOL**
 
 ## Contact
 
