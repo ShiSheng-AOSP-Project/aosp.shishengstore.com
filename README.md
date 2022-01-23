@@ -10,8 +10,6 @@ We drew inspiration from [$Sudoerz](https://github.com/UP5468-GE-ES44AC)'s umi(X
 
 _Now, we're working on AOSP for cmi(Xiaomi 10 Pro)._
 
-
-
 ## Menu
 
 ### cmi - Xiaomi 10 Pro
@@ -20,7 +18,7 @@ _Now, we're working on AOSP for cmi(Xiaomi 10 Pro)._
 
 ### blueline - Google Pixel 3
 
-- [exTHmUI](/exTHmUI/blueline.html) **EOL**
+- [exTHmUI](/exTHmUI/blueline.html) **<font color=red>EOL</font>**
 
 ## Contact
 
