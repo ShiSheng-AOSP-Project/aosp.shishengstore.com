@@ -8,7 +8,7 @@ A little AOSP project funded by ShiSheng.
 
 We drew inspiration from [$Sudoerz](https://github.com/UP5468-GE-ES44AC)'s umi(Xiaomi 10) project.
 
-_Now, we're working on AOSP for cmi(Xiaomi 10 Pro)._
+_Now, we're working on AOSP for cmi(Xiaomi 10 Pro) only._
 
 ## Menu
 
