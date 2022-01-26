@@ -25,7 +25,6 @@ _Now, we're working on AOSP for cmi(Xiaomi 10 Pro) **only**._
 GitHub Organization: <https://github.com/ShiSheng-AOSP-Project>
 Official Site: <https://aosp.shishengstore.com>
 E-mail: <support@shishengstore.com>
-
 ShiSheng's Blog: <https://blog.shisheng.icu>
 
 ---
