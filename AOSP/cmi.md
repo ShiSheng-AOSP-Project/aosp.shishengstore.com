@@ -2,6 +2,35 @@
 
 ## AOSP(Sudoerz's Mod)
 
+> 
+> Due to financial issues, we stopped to provide download service on `ShiSheng's ROM Download Station`.
+> 
+
+### SudoerzMod_cmi_v8-userdebug-12-SQ1D.220205.003-20220220.014954 <font color=red>Experimental</font>
+
+#### Warning
+
+The SELinux status is `permissive` due to the release is experimental.
+
+Firmware version is MIUI 12.5.10
+
+#### Update log
+
+	- Sudoerz's Mod: upgrade to v8
+	- Security Patch: merged Google's february security patch
+	- Battery: Introduce Advanced Battery Protector
+
+- Gapps
+
+  [ShiSheng's Drive <font color=blue>**Recommend**</font>](https://drive.shishengstore.com/Android/cmi-Mi10Pro/Experimental/20220220/SudoerzMod_cmi_v8-userdebug-12-SQ1D.220205.003-20220220.014954.zip)
+  
+  
+	> SudoerzMod_cmi_v8-userdebug-12-SQ1D.220205.003-20220220.014954.zip
+	> Sha256: 8137f21e12f5ec2cb62980aa024bd792b75a5e93623c2ba19307b4863d7af013
+	> Size: 2.27G
+
+---
+
 ### SudoerzMod_cmi_v7-userdebug-12-SQ1D.220105.007-20220209.165827 <font color=red>Experimental</font>
 
 #### Warning
@@ -18,11 +47,11 @@ Firmware version is MIUI 12.5.10
 	- 5G: Introduce FGWorkMode controller
 	- Lockscreen: Allow forcing small keyguard clock
 
-
 - Gapps
-  [ShiSheng's ROM Download Station](http://106.55.51.231:53487/cmi-Mi10Pro/Experimental/20220209/SudoerzMod_cmi_v7-userdebug-12-SQ1D.220105.007-20220209.165827.zip)
+  ~~[ShiSheng's ROM Download Station](http://106.55.51.231:53487/cmi-Mi10Pro/Experimental/20220209/SudoerzMod_cmi_v7-userdebug-12-SQ1D.220105.007-20220209.165827.zip)~~
 
   [ShiSheng's Drive <font color=blue>**Recommend**</font>](https://drive.shishengstore.com/Android/cmi-Mi10Pro/Experimental/20220209/SudoerzMod_cmi_v7-userdebug-12-SQ1D.220105.007-20220209.165827.zip)
+  
   
 	> SudoerzMod_cmi_v7-userdebug-12-SQ1D.220105.007-20220209.165827.zip
 	> Sha256: 4e44633b462997aa3b8dd5260a66d5fd860f15928e96f64f181aed50a83f2c8c
