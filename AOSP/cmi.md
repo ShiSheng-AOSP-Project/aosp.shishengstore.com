@@ -2,9 +2,37 @@
 
 ## AOSP(Sudoerz's Mod)
 
-> 
-> Due to financial issues, we stopped to provide download service on `ShiSheng's ROM Download Station`.
-> 
+> We provided [get-rom.shishengstore.com](https://www.bilibili.com/video/BV1GJ411x7h7) for faster download experience.
+>
+> ~~Due to financial issues, we stopped to provide download service on `ShiSheng's ROM Download Station`.~~
+### SudoerzMod_cmi_v12_cmi-userdebug-12.1-SP2A.220505.002-20220603.233049 <font color=red>Experimental</font>
+
+#### Warning
+
+**<font color=red>Because this is a major version update, you need to clear all data before flashing (aka. clean flash).</font>**
+
+The SELinux status is `permissive` due to the release is experimental.
+
+Firmware version is MIUI 12.5.10
+
+#### Update log
+
+	- Android: Implement Android 12L Update
+	- UI: Replaced Chinese, Japanese and Korean fonts by Siyuan variable fonts
+	- Bug fix: Fix Bluetooth bugs
+
+- Gapps
+
+	[get-rom.shishengstore.com <font color=blue>**Recommend**</font>](https://get-rom.shishengstore.com/?file=SudoerzMod_cmi_v12_cmi-userdebug-12.1-SP2A.220505.002-20220603.233049.zip)
+
+	[ShiSheng's Drive](https://drive.shishengstore.com/api/raw/?path=/Android/cmi-Mi10Pro/Experimental/20220603/SudoerzMod_cmi_v12_cmi-userdebug-12.1-SP2A.220505.002-20220603.233049.zip)
+  
+  
+	> SudoerzMod_cmi_v12_cmi-userdebug-12.1-SP2A.220505.002-20220603.233049.zip
+	> MD5: 9fba9258d74265899653b4014a83221a
+	> Size: 2.34G
+
+---
 
 ### SudoerzMod_cmi_v8-userdebug-12-SQ1D.220205.003-20220220.014954 <font color=red>Experimental</font>
 
