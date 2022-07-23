@@ -2,9 +2,15 @@
 
 ## AOSP(Sudoerz's Mod)
 
-> We provided [get-rom.shishengstore.com](https://www.bilibili.com/video/BV1GJ411x7h7) for faster download experience.
+> Now we provided `[get-rom.shishengstore.com]` for faster download experience. 
 >
-> ~~Due to financial issues, we stopped to provide download service on `ShiSheng's ROM Download Station`.~~
+> We will only provide download service for the last two versions of the ROM Pack on `[get-rom.shishengstore.com]`.
+>
+> All historical versions available on `[ShiSheng's Drive]`.
+>
+> Due to financial issues, we stopped to provide download service on `[ShiSheng's ROM Download Station]`.
+>
+
 ### SudoerzMod_cmi_v12_cmi-userdebug-12.1-SP2A.220505.002-20220603.233049 <font color=red>Experimental</font>
 
 #### Warning
