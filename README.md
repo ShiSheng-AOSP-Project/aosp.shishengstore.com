@@ -14,7 +14,7 @@ _Now, we're working on AOSP for cmi(Xiaomi 10 Pro) **only**._
 
 ### cmi - Xiaomi 10 Pro
 
-- [AOSP(Sudoerz's Mod)](/AOSP/cmi.html)
+- [AOSP(Sudoerz's Mod)](/AOSP/cmi.html) **<font color=red>EOL</font>**
 
 ### blueline - Google Pixel 3
 
